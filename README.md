@@ -2,12 +2,15 @@
 
 Code accompanying the paper: 
 
-# Data
-All analysis was performed using version 46 of the *A. nidulans* FGSC A4 genome
-(FungiDB-46_AnidulansFGSCA4_Genome.fasta and FungiDB-46_AnidulansFGSCA4.gff) obtained
-from [FungiDB](https://fungidb.org/common/downloads/Current_Release/AnidulansFGSCA4/).
+> CRISPRa of biosynthetic gene clusters for bioactive molecule discovery in filamentous fungi
+> Indra Roux, Clara Woodcraft, Jinyu Hu, Rebecca Wolters, Cameron L.M. Gilchrist, Yit-Heng Chooi
 
-# File summary
+## Data
+All analysis was performed using version 46 of the *A. nidulans* FGSC A4 genome
+ obtained from [FungiDB](https://fungidb.org/common/downloads/Current_Release/AnidulansFGSCA4/)
+ (FungiDB-46_AnidulansFGSCA4_Genome.fasta and FungiDB-46_AnidulansFGSCA4.gff).
+
+## File summary
 | File | Description |
 | ---- | ----------- |
 | notebook.ipynb | Jupyter notebook containing all code used in analyses |
