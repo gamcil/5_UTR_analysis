@@ -3,6 +3,7 @@
 Code accompanying the paper: 
 
 > CRISPRa of biosynthetic gene clusters for bioactive molecule discovery in filamentous fungi
+>
 > Indra Roux, Clara Woodcraft, Jinyu Hu, Rebecca Wolters, Cameron L.M. Gilchrist, Yit-Heng Chooi
 
 ## Data
